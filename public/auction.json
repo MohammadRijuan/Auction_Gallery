@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "Classic 1960s film camera in excellent condition.",
+      "currentBidPrice": 120,
+      "timeLeft": "2d 4h",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/Dfqbpprs/camera.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Rolex Submariner 16610",
+      "description": "Elegant wooden mantle clock from the 19th century.",
+      "currentBidPrice": 300,
+      "timeLeft": "1d 3h",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co.com/gMctjwvs/clock.jpg"
+    },
+    {
+      "id": 3,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Stylish lamp with a unique Art Deco design.",
+      "currentBidPrice": 85,
+      "timeLeft": "5h 22m",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/JFRX1pbj/lamp.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Rare coin collection from various historical periods.",
+      "currentBidPrice": 450,
+      "timeLeft": "3d 1h",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/cSvp26Dx/chair.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Fully functional retro gaming console with original packaging.",
+      "currentBidPrice": 200,
+      "timeLeft": "6h 10m",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/XZfsZGgQ/gaming.jpg"
+    },
+    {
+      "id": 6,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Authentic designer handbag in pristine condition.",
+      "currentBidPrice": 720,
+      "timeLeft": "12h 45m",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/Nd2T2RRf/handbag.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Authentic designer handbag in pristine condition.",
+      "currentBidPrice": 320,
+      "timeLeft": "12h 45m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/wFW1qKNW/handbag.jpg"
+    }
+  ]
+  
